@@ -1,0 +1,47 @@
+{
+  "Binance": {
+    "consistency_index": 97.71825807084333,
+    "freshness_index": 83.53021410859995,
+    "availability_index": 100.0,
+    "composite_dqi": 92.49938887177731,
+    "consistency_count": 463,
+    "freshness_count": 463,
+    "availability_stats": {
+      "successful_calls": 463,
+      "total_calls": 463,
+      "availability_score": 100.0,
+      "missing_rate": 0.0
+    },
+    "avg_delay_seconds": 0.8784995151132539
+  },
+  "MEXC": {
+    "consistency_index": 94.35556301189452,
+    "freshness_index": 69.05662551277707,
+    "availability_index": 100.0,
+    "composite_dqi": 85.36487540986863,
+    "consistency_count": 463,
+    "freshness_count": 463,
+    "availability_stats": {
+      "successful_calls": 463,
+      "total_calls": 463,
+      "availability_score": 100.0,
+      "missing_rate": 0.0
+    },
+    "avg_delay_seconds": 1.3621120056374798
+  },
+  "Bitget": {
+    "consistency_index": 93.57545747734355,
+    "freshness_index": 77.9453622036104,
+    "availability_index": 100.0,
+    "composite_dqi": 88.60832787238158,
+    "consistency_count": 463,
+    "freshness_count": 463,
+    "availability_stats": {
+      "successful_calls": 463,
+      "total_calls": 463,
+      "availability_score": 100.0,
+      "missing_rate": 0.0
+    },
+    "avg_delay_seconds": 1.0660298462820361
+  }
+}
